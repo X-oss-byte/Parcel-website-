@@ -19,7 +19,7 @@
     }
   },
   "dependencies": {
-    "now-client": "5.2.4"
+    "now-client": "9.0.4"
   },
   "devDependencies": {
     "husky": "^1.1.2",
