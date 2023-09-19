@@ -26,7 +26,7 @@
     "markdown-styles": "^3.1.10",
     "now": "^11.2.4",
     "prettier": "^1.14.3",
-    "pretty-quick": "^1.8.0",
+    "pretty-quick": "^3.0.0",
     "serve": "^11.2.0"
   }
 }
